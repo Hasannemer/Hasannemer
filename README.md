@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hasannemer
-- 👀 I’m interested in computer science and engineering 
+- 👀 I’m interested in computer science and software engineering 
 - 🌱 I’m currently learning computer science 
 - 📫 Gmail:hasannemer2004@gmail.com
 
